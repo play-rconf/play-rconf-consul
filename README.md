@@ -1,8 +1,8 @@
 # Play Remote Configuration - HashiCorp Consul
 
 
-[![Latest release](https://img.shields.io/badge/latest_release-18.12-orange.svg)](https://github.com/play-rconf/play-rconf-consul/releases)
-[![JitPack](https://img.shields.io/badge/JitPack-release~18.12-brightgreen.svg)](https://jitpack.io/#play-rconf/play-rconf-consul)
+[![Latest release](https://img.shields.io/badge/latest_release-19.02-orange.svg)](https://github.com/play-rconf/play-rconf-consul/releases)
+[![JitPack](https://img.shields.io/badge/JitPack-release~19.02-brightgreen.svg)](https://jitpack.io/#play-rconf/play-rconf-consul)
 [![Build](https://api.travis-ci.org/play-rconf/play-rconf-consul.svg?branch=master)](https://travis-ci.org/play-rconf/play-rconf-consul)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/play-rconf/play-rconf-consul/master/LICENSE)
 
