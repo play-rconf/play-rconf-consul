@@ -6,7 +6,7 @@
 
     <groupId>io.play-rconf</groupId>
     <artifactId>play-rconf-consul</artifactId>
-    <version>19.09</version>
+    <version>19.11</version>
     <name>Play Remote Configuration - HashiCorp Consul</name>
     <description>Retrieves configuration from HashiCorp Consul</description>
     <url>https://github.com/play-rconf/play-rconf-consul</url>
